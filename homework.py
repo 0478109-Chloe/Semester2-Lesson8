@@ -63,6 +63,7 @@ print (str(count_occurrence("banana" ,shopping_cart)) +" banana")
 print (str(count_occurrence("brocoli" ,shopping_cart)) +" brocoli")
 print (str(count_occurrence("milk" ,shopping_cart)) +" milk")
 print (str(count_occurrence("bread" ,shopping_cart)) +" bread")
+shopping_cart.remove("bananas")
 
                         
 
